@@ -3,8 +3,8 @@ using namespace std;
 
 class Tower
 {
-public:
 	int height;
+public:
 	Tower();
 	Tower(int h);
 	int getHeight();
