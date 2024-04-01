@@ -41,7 +41,7 @@ int main()
 	}
 
 	Circle* p;
-	p = circleArray; //왜 주소값을 입력 안해줌??
+	p = circleArray; //배열자체로도 주소임.
 	for (int i = 0; i < 3; i++)
 	{
 		cout << (*p).getArea() << endl;
