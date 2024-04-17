@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Quiz_prac_20.cpp" />
+    <ClCompile Include="prac_29.cpp" />
+    <ClCompile Include="prac_30.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

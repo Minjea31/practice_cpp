@@ -23,7 +23,7 @@ int main() {
 			cout << s << endl;
 		}
 
-		else if (first >= '°¡' && first <= 'ÆR')
+		else
 		{
 			string first = s.substr(0, 2); 
 			string sub = s.substr(2, len - 2); 
@@ -31,13 +31,13 @@ int main() {
 			cout << s << endl;
 		}
 
-		else if (s.substr(0, 1) == " ")
+		/*else if (s.substr(0, 1) == " ")
 		{
 			string first = s.substr(0, 1); 
 			string sub = s.substr(1, len - 1); 
 			s = sub + first; 
 			cout << s << endl;
-		}
+		}*/
 	}
 }
 

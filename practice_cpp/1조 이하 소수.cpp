@@ -2,13 +2,17 @@
 using namespace std;
 
 bool isPrime(long long n) {
-    if (n <= 1) return false; // 1보다 작거나 같은 수는 소수가 아님
-    if (n <= 3) return true; // 2와 3은 소수
+    if (n <= 1) 
+        return false; // 1보다 작거나 같은 수는 소수가 아님
+    if (n <= 3) 
+        return true; // 2와 3은 소수
 
-    if (n % 2 == 0 || n % 3 == 0) return false; // 2 또는 3으로 나누어지면 소수가 아님
+    if (n % 2 == 0 || n % 3 == 0) 
+        return false; // 2 또는 3으로 나누어지면 소수가 아님
 
     // 6k ± 1 꼴의 수만 확인 (k는 자연수)
-    for (long long i = 5; i * i <= n; i += 6) {
+    for (long long i = 5; i * i <= n; i += 6) 
+    {
         if (n % i == 0 || n % (i + 2) == 0) return false; // 6k ± 1 꼴의 수로 나누어지면 소수가 아님
     }
 

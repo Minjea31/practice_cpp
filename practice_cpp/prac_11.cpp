@@ -1,8 +1,8 @@
 //랜덤 값 호출
 #include <iostream>
 using namespace std;
-#include<cstdlib>
-#include<ctime>
+#include <random>
+#include <time.h>
 
 
 class Random
