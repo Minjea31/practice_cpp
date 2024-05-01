@@ -18,10 +18,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SFTT_16.cpp">
+    <ClCompile Include="string.cpp">
       <Filter>소스 파일\시험 공부</Filter>
     </ClCompile>
-    <ClCompile Include="SFTT_17.cpp">
+    <ClCompile Include="SFTT_24.cpp">
+      <Filter>소스 파일\시험 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="SFTT_18.cpp">
+      <Filter>소스 파일\시험 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="SFTT_5.cpp">
+      <Filter>소스 파일\시험 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="prac_33.cpp">
+      <Filter>소스 파일\시험 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="prac_34.cpp">
+      <Filter>소스 파일\시험 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="prac_35.cpp">
+      <Filter>소스 파일\시험 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="prac_36.cpp">
       <Filter>소스 파일\시험 공부</Filter>
     </ClCompile>
   </ItemGroup>

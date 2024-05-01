@@ -9,6 +9,7 @@ int main()
 	char alpha[1000] = { 0 };
 
 	cin.getline(alpha, 1000, ';');
+
 	for (int i = 0; i < strlen(alpha); i++)
 	{
 		if (isalpha(tolower(alpha[i])) != 0) //소문자로 만드는 코드
