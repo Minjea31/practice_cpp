@@ -42,5 +42,11 @@
     <ClCompile Include="prac_36.cpp">
       <Filter>소스 파일\시험 공부</Filter>
     </ClCompile>
+    <ClCompile Include="Quiz_1.cpp">
+      <Filter>소스 파일\시험 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.cpp">
+      <Filter>소스 파일\시험 공부</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

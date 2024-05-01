@@ -29,6 +29,8 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="prac_36.cpp" />
+    <ClCompile Include="Quiz_1.cpp" />
+    <ClCompile Include="Quiz_2.cpp" />
     <ClCompile Include="SFTT_18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
