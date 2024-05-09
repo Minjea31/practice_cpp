@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="prac_39.cpp">
+    <ClCompile Include="seminar__2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar__1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="semonar_3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
