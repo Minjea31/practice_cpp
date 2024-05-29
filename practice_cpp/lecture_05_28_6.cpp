@@ -7,7 +7,7 @@ int main()
 	{
 		for (int j = 2; j < 10; j++)
 		{
-			cout << j << "x" << i << '=' << j * i << '\t';
+			cout << j << "x" << i << '=' << j * i*1000 << '\t';
 		}
 		cout << endl;
 	}
