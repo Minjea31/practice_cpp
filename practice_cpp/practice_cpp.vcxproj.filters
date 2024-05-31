@@ -15,19 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lecture_05_29_1.cpp">
+    <ClCompile Include="final_1_상속.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="lecture_05_29_2.cpp">
+    <ClCompile Include="final_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="lecture_05_29_3.cpp">
+    <ClCompile Include="final_3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="lecture_05_29_4.cpp">
+    <ClCompile Include="final_4_가상함수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="lecture_05_29_5.cpp">
+    <ClCompile Include="final_5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_8장_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_8장_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
