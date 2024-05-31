@@ -83,5 +83,4 @@ int main()
     if (c == d) {
         cout << "ok\n";
     }
-
 }
