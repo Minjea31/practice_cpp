@@ -10,7 +10,6 @@ int main()
 	v.push_back(3);
 
 	vector<int>::iterator it;
-
 	for (it = v.begin(); it != v.end(); it++)
 	{
 		int n = *it;
