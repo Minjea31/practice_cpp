@@ -26,24 +26,31 @@ int main()
         bool found = false;
 
         // 키로 검색
-        if (dic.find(input) != dic.end()) {
+        if (dic.find(input) != dic.end())
+        {
             cout << dic[input] << endl;
             found = true;
         }
-        else {
+        else 
+        {
             // 값으로 검색
-            for (const auto& pair : dic) {
-                if (pair.second == input) {
-                    cout << pair.first << endl;
+            map<string, string>::iterator it;
+            for (it = dic.begin(); it != dic.end(); ++it) 
+            {
+                if (it->second == input) 
+                {
+                    cout << it->first << endl;
                     found = true;
-                    break;
+                    break; // 값을 찾으면 루프를 종료합니다.
                 }
             }
         }
 
-        if (!found) {
-            cout << "없음" << endl;
+        if (!found) 
+        {
+            cout << "단어를 찾을 수 없습니다." << endl;
         }
     }
-    cout << "종료합니다" << endl;
+
+    return 0;
 }

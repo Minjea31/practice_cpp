@@ -19,10 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="final_12_양방향 검색.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="final_23_출력 연산자.cpp" />
+    <ClCompile Include="final_24_클래스 출력.cpp" />
+    <ClCompile Include="final_25_객체입출력.cpp" />
+    <ClCompile Include="final_26_출력 조작자 생성.cpp" />
+    <ClCompile Include="final_27_입력 조작자 생성.cpp" />
     <ClCompile Include="final_28.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="final_29.cpp" />
+    <ClCompile Include="final_31.cpp" />
     <ClCompile Include="final_9장_7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

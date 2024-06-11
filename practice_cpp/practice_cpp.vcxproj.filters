@@ -21,7 +21,25 @@
     <ClCompile Include="final_28.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="final_29.cpp">
+    <ClCompile Include="final_12_양방향 검색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_31.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_27_입력 조작자 생성.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_25_객체입출력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_26_출력 조작자 생성.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_24_클래스 출력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final_23_출력 연산자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
